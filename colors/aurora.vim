@@ -1,5 +1,5 @@
 " Maintainer: Christian Chiarulli <chrisatmachine@gmail.com>
-
+" test
 set background=dark
 hi clear
 if exists('syntax_on')
